@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bakr88151
-- 👀 I’m interested in Computer science in general, espicaly working with databases with developing web apps
+- 👀 I’m interested in Computer science in general, espicaly working with databases and developing web apps
 - 🌱 I’m currently learning node.js
 
 <!---
